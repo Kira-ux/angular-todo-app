@@ -17,7 +17,7 @@ export class TodosComponent implements OnInit {
   ngOnInit(): void {
     this.todos = [
       {
-        content: '1st Todo',
+        content: 'Todos',
         completed: true
       }
     ]
